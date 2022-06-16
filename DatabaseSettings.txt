@@ -1,0 +1,3 @@
+jdbc:mysql://tx.justu.cf:3306/g7_library
+niit
+root
